@@ -1,0 +1,5 @@
+Pep1:
+https://dplyr.tidyverse.org/articles/rowwise.html
+https://www.r-bloggers.com/2016/11/5-ways-to-subset-a-data-frame-in-r/
+https://swcarpentry.github.io/r-novice-gapminder-es/13-dplyr/
+https://www.r-bloggers.com/2021/09/how-to-remove-outliers-in-r-3/
